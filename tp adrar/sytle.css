@@ -1,0 +1,70 @@
+body
+{
+    background: radial-gradient( #9d70d1, #d3dee2 )
+}
+.tp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto  
+}
+
+h1 {
+    color: #8d4a53;
+    text-align: center;
+    font-family:rel="preconnect" href="https://fonts.googleapis.com";
+    font-weight: 900;
+}
+
+nav {
+     text-align: center;
+}
+a{
+    color: red;
+}
+
+a:hover{
+    color: black;
+}
+
+h3 {
+     color:#2B2D42;
+     text-decoration: underline dotted;
+     font-size: 35px;
+     font-weight: bolder;
+}
+
+article {
+    border: 1px solid black ;
+}
+
+div{
+    text-align: center;
+}
+.smartphone{
+    width: 200px;
+    border: 2px blanchedalmond solid  ;
+    margin: auto;
+}
+.livre {
+    width: 200px;
+    border: 2px blanchedalmond solid  ;
+    margin: auto;
+}
+
+.conclusion{
+    border: 2px blanchedalmond solid;
+    margin: auto;
+    width: 200px;
+}
+
+
+footer { 
+    text-align: right;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
